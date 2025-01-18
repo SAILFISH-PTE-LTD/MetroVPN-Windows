@@ -1,4 +1,4 @@
-# MetroVPN-Windows
+# MetroVPN
 https://metrovpn.net
 # Other platforms
 https://metrovpn.app/download?utm_medium=github
