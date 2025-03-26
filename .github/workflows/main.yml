@@ -1,0 +1,26 @@
+name: Update README Time
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:  
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README timestamp
+        run: |
+          sed -i -E "s/⏳ Last Updated: .*/⏳ Last Updated: <!-- TIME_PLACEHOLDER -->/g" README.md
+          TIME=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          sed -i "s/<!-- TIME_PLACEHOLDER -->/${TIME}/g" README.md
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "Jeffrey"
+          git config --global user.email "support@metrovpn.xyz"
+          git add README.md
+          git commit -m "Update offer information" || exit 0
+          git push
