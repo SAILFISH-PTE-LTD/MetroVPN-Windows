@@ -1,7 +1,7 @@
 # MetroVPN
-https://metrovpn.net
+[Official Website](https://metrovpn.net)
 # Other platforms
-https://metrovpn.app/download?utm_medium=github
+[Installing other platforms](https://metrovpn.app/download?utm_medium=github)
 # Subscription Plans
-https://metrovpn.co/payment?utm_medium=github
+[Get discount information](https://metrovpn.co/payment?utm_medium=github)
 
