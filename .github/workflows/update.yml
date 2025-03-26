@@ -14,9 +14,10 @@ jobs:
 
       - name: Update README timestamp
         run: |
+          sed -i -E "s/⏳ Last Updated: .*/⏳ Last Updated: <!-- TIME_PLACEHOLDER -->/g" README.md
           TIME=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
           sed -i "s/<!-- TIME_PLACEHOLDER -->/${TIME}/g" README.md
-
+          
       - name: Commit and push changes
         run: |
           git config --global user.name "Jeffrey"
