@@ -17,6 +17,6 @@
 
 # [Other platforms](https://metrovpn.app/download?utm_medium=github)
 <a href='https://play.google.com/store/apps/details?id=xyz.security.vpn.android.metro&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="86px"  /></a>
-<a href="https://apps.apple.com/us/app/metrovpn-fast-private-vpn/id1593348413?itscg=30200&itsct=apps_box_badge&mttnsubad=1593348413" style="display: inline-block;"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1642464000" alt="Download on the App Store" style=" height: 64px; vertical-align: middle; object-fit: contain;" /></a>
+<a href="https://apps.apple.com/us/app/metrovpn-fast-private-vpn/id1593348413?itscg=30200&itsct=apps_box_badge&mttnsubad=1593348413"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1642464000" alt="Download on the App Store"  height="60px"/></a>
 
 # [Subscription Plans](https://metrovpn.co/payment?utm_medium=github)
