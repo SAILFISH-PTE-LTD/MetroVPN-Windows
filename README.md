@@ -1,5 +1,5 @@
 # [MetroVPN](https://metrovpn.net)
-
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/SAILFISH-PTE-LTD/MetroVPN-Windows?logo=github)
 ![GitHub Release Date](https://img.shields.io/github/release-date/SAILFISH-PTE-LTD/MetroVPN-Windows?display_date=published_at&logo=github)
 ![GitHub Release](https://img.shields.io/github/v/release/SAILFISH-PTE-LTD/MetroVPN-Windows?logo=github)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SAILFISH-PTE-LTD/MetroVPN-Windows/total?logo=github)](https://github.com/SAILFISH-PTE-LTD/MetroVPN-Windows/releases)
