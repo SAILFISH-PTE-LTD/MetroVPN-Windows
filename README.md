@@ -25,4 +25,50 @@
 
 # [Subscription Plans](https://metrovpn.co/payment?utm_medium=github)
 
+## 🚀 What is This VPN?
 
+This is a **fast, secure, and unlimited VPN** that helps you protect your privacy, bypass censorship, and access blocked content worldwide.
+With **military-grade encryption**, our VPN ensures **100% anonymity** while you browse the internet.
+
+✅ **Features:**
+
+- 🔥 **Fast VPN servers** in **100+ locations** worldwide
+- 🌍 **Bypass geo-restrictions** and **access blocked content**
+- 🔐 **No logs policy** - We never track your activity
+- 🔑 **AES-256 encryption** for top-tier security
+- 📱 **Best VPN for Android, iOS, Windows, and Mac**
+- 🚀 **One-tap connection** for an easy and smooth experience
+- 🔄 **Unlimited bandwidth & high-speed connections**
+
+## 🌎 Why Use Our VPN?
+
+Do you want to **unblock websites**, watch **Netflix, YouTube, Hulu** from anywhere, or protect your online privacy?
+Our VPN allows you to **bypass firewalls**, access **secure private networks**, and stay **anonymous online**.
+
+📌 **Best VPN for:**
+
+- 🏆 **Gaming** - Reduce latency with ultra-fast servers
+- 🎥 **Streaming** - Watch Netflix, Hulu, Disney+ without buffering
+- 🛡 **Security** - Protect against hackers and public WiFi threats
+- 🌍 **Bypass restrictions** - Access blocked sites like Google, YouTube, Facebook
+
+## 🔥 How to Use
+
+1️⃣ **Download & Install** 
+2️⃣ **Open the app & select a VPN server**
+3️⃣ **Tap "Connect"** – Done! Enjoy unlimited, secure browsing 🚀
+
+
+## 🛠 Built With
+
+- **Kotlin + Jetpack Compose** (Android)
+- **SwiftUI** (iOS & macOS)
+- **Electron + Koffi** (Windows)
+
+## 💡 Contribute
+
+We welcome contributions! Feel free to open an issue or pull request.
+
+## 📧 Contact Us
+
+For support, email us at [support@metrovpn.xyz](mailto:support@metrovpn.xyz)
