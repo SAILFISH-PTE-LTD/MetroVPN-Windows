@@ -54,9 +54,9 @@ Our VPN allows you to **bypass firewalls**, access **secure private networks**, 
 
 ## 🔥 How to Use
 
-1️⃣ **Download & Install** 
-2️⃣ **Open the app & select a VPN server**
-3️⃣ **Tap "Connect"** – Done! Enjoy unlimited, secure browsing 🚀
+- 1️⃣ **Download & Install** 
+- 2️⃣ **Open the app & select a VPN server**
+- 3️⃣ **Tap "Connect"** – Done! Enjoy unlimited, secure browsing 🚀
 
 
 ## 🛠 Built With
