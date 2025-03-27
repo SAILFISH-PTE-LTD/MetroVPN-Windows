@@ -19,7 +19,7 @@
 [![Chat on Ins](https://img.shields.io/badge/Chat%20on-Instagram-brightgreen.svg?logo=instagram&logoColor=white)](https://www.instagram.com/metrovpn)
 
 # [Other platforms](https://metrovpn.app/download?utm_medium=github)
-<a href="https://apps.microsoft.com/detail/xp8c6fpmdk4rwh?mode=direct"><img src="https://get.microsoft.com/images/zh-cn%20dark.svg" height="80" style="display: inline-block; "/></a>
+<a href="https://apps.microsoft.com/detail/xp8c6fpmdk4rwh?mode=direct"><img src="https://get.microsoft.com/images/en-us%20dark.svg" height="80" style="display: inline-block; "/></a>
 <a href="https://apps.apple.com/us/app/metrovpn-fast-private-vpn/id1593348413?itscg=30200&itsct=apps_box_badge&mttnsubad=1593348413"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1642464000" alt="Download on the App Store" height="80" style="display: inline-block; "/></a>
 <a href='https://play.google.com/store/apps/details?id=xyz.security.vpn.android.metro&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="80" style="display: inline-block; "/></a>
 
