@@ -74,4 +74,4 @@ We welcome contributions! Feel free to open an issue or pull request.
 For support, email us at [support@metrovpn.xyz](mailto:support@metrovpn.xyz)
 
 
-⏳ Last Updated: 2026-03-22 13:42:21 UTC
+⏳ Last Updated: 2026-03-22 14:26:50 UTC
